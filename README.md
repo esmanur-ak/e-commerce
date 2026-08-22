@@ -3,7 +3,6 @@
 Modern ve responsive bir e-ticaret ön yüz (front-end) şablonu. Saf **HTML, CSS ve JavaScript** ile geliştirilmiş, herhangi bir framework veya build aracı gerektirmeyen statik bir sitedir.
 
 🔗 **Canlı Demo:** [ecommerce-esmanur.netlify.app](https://ecommerce-esmanur.netlify.app/)
-📦 **Repo:** [github.com/esmanur-ak/e-commerce](https://github.com/esmanur-ak/e-commerce)
 
 ## Özellikler
 
