@@ -6,16 +6,16 @@ Modern ve responsive bir e-ticaret ön yüz (front-end) şablonu. Saf **HTML, CS
 
 ## Özellikler
 
-- 🖼️ **Slider / Hero alanı** – sezonluk kampanya görselleri için otomatik geçişli banner
-- 🗂️ **Kategori listesi** – ikonlu/görselli ürün kategorileri
-- 🛍️ **`data.json`'dan dinamik ürün listeleme** – ürün kartları sayfa yüklenirken `js/data.json`'dan fetch edilip DOM'a basılıyor
-- 🛒 **Gerçek (localStorage tabanlı) sepet** – "Sepete Ekle" butonu ürünü `localStorage`'a yazıyor, header'daki sepet sayacı anlık güncelleniyor, sepet sayfasında ürün silme ve ara toplam/kargo hesaplaması yapılıyor
-- 🔍 **Çalışan canlı arama** – arama kutusuna yazdıkça ürün adına göre anlık filtreleme yapılıyor, sonuç yoksa "Aradığınız Ürün Bulunamadı" mesajı gösteriliyor
-- 🎠 **Ürün carousel'leri** – [Glide.js](https://glidejs.com/) ile öne çıkan ürünler, yeni gelenler ve ürün detay sayfası küçük görsel (thumbnail) carousel'i
-- 🔎 **Ürün detay sayfası** – görsel yakınlaştırma (zoom), renk/beden seçimi, sekmeli açıklama-yorum alanı, yıldızlı puanlama ve yorum ekleme formu
-- 📧 **Bülten (newsletter) popup'ı** – kapatılabilir kayıt formu
-- 📱 **Tam responsive tasarım** – mobil menü (hamburger) desteği
-- 🔤 **Bootstrap Icons** ile ikon seti
+- **Slider / Hero alanı** – sezonluk kampanya görselleri için otomatik geçişli banner
+- **Kategori listesi** – ikonlu/görselli ürün kategorileri
+- **`data.json`'dan dinamik ürün listeleme** – ürün kartları sayfa yüklenirken `js/data.json`'dan fetch edilip DOM'a basılıyor
+- **Gerçek (localStorage tabanlı) sepet** – "Sepete Ekle" butonu ürünü `localStorage`'a yazıyor, header'daki sepet sayacı anlık güncelleniyor, sepet sayfasında ürün silme ve ara toplam/kargo hesaplaması yapılıyor
+- **Çalışan canlı arama** – arama kutusuna yazdıkça ürün adına göre anlık filtreleme yapılıyor, sonuç yoksa "Aradığınız Ürün Bulunamadı" mesajı gösteriliyor
+- **Ürün carousel'leri** – [Glide.js](https://glidejs.com/) ile öne çıkan ürünler, yeni gelenler ve ürün detay sayfası küçük görsel (thumbnail) carousel'i
+- **Ürün detay sayfası** – görsel yakınlaştırma (zoom), renk/beden seçimi, sekmeli açıklama-yorum alanı, yıldızlı puanlama ve yorum ekleme formu
+- **Bülten (newsletter) popup'ı** – kapatılabilir kayıt formu
+- **Tam responsive tasarım** – mobil menü (hamburger) desteği
+- **Bootstrap Icons** ile ikon seti
 
 ## Sayfalar
 
